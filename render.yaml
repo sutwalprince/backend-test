@@ -3,3 +3,4 @@ services:
   - type: web
     runtime: node
     name: namrmr
+    startCommand: npm run start
