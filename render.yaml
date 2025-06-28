@@ -1,0 +1,5 @@
+# A web service that builds from a Dockerfile
+services:
+  - type: web
+    runtime: node
+    name: namrmr
